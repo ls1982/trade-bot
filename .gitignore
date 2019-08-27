@@ -1,0 +1,10 @@
+*/target/
+.metadata/
+**/.settings/
+build/
+classes/
+.classpath
+.project
+.idea
+*.iml
+*~
