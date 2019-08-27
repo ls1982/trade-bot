@@ -10,7 +10,7 @@ This code can be used to implement your own bot to participate the **auction bat
 
 ### Do it yourself!
 
-То make your bot you should implement the **Bidder** or customize the **CommonBidder** class with your own **PricingStrategy** implementation. 
+То make your bot you should implement the **Bidder** interface or customize the **CommonBidder** class with your own **PricingStrategy** implementation. 
 
 To perform an auction the  **AuctionManager** should be used (see the **AuctionMain** class for example)
 
