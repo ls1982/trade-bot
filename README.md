@@ -6,7 +6,7 @@ The **CommonBidder** class represents a trade bot that can be customized with **
 
 The **AuctionManager** provides auction logic.
 
-This code can be used to implement your own bot to participate the **auction battle**!
+This code can be used to implement your own bot to participate in the **auction battle**!
 
 ### Do it yourself!
 
